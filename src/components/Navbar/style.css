@@ -1,0 +1,74 @@
+nav{
+    display: flex;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 25px;
+    padding-right: 25px;
+    .btn_image{
+      width: 24px;
+      height: 16.8px;
+    }
+  }
+  .left{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    button{
+      border: none;
+      cursor: pointer;
+      background-color: white;
+    }
+  }
+  .logo{
+    width: 125px;
+    height: 37px;
+  }
+  .search_btn{
+    cursor: pointer;
+    height: 40px;
+    width: 64px;
+  }
+  .center{
+    display: flex;
+    align-items: center;
+    input{
+      width: 474px;
+      height: 40px;
+      padding-left: 10px;
+    }
+  }
+  .micro{
+    width: 48px;
+    height: 48px;
+    border: none;
+    border-radius: 50px;
+    margin-left: 15px;
+    cursor: pointer;
+  }
+  .right{
+    display: flex;
+    gap: 35px;
+    align-items: center;
+  }
+  .upload{
+    width: 18px;
+    height: 27.42px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+  }
+  .nofic{
+    width: 18px;
+    height: 27.42px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+  }
+  .channel{
+    width: 32px;
+    height: 32px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+  }
