@@ -10,7 +10,7 @@ function App() {
     <main>
       <div className='navigation'>
         <div>
-          
+
         </div>
         <div className='Home'>
           <img src="" alt="" />
@@ -50,8 +50,46 @@ function App() {
           <img src="" alt="" />
           <p>Liked videos</p>
         </div>
+        <div className='Show more'>
+          <img src="" alt="" />
+          <p>Show more</p>
+        </div>
 
         <hr />
+        <p>Subscriptions</p> {/*скоро будет вместо этого настоящие подписки с API */}
+        <div className='channel1'>
+          <img src="" alt="" />
+           <p>Nadir one The go</p>  {/*скоро будет вместо этого настоящие подписки с API */}
+        </div>
+        <div className='channel1'>
+          <img src="" alt="" />
+           <p>Nadir one The go</p>  {/*скоро будет вместо этого настоящие подписки с API */}
+        </div>
+        <div className='channel1'>
+          <img src="" alt="" />
+           <p>Nadir one The go</p>  {/*скоро будет вместо этого настоящие подписки с API */}
+        </div>
+        <div className='channel1'>
+          <img src="" alt="" />
+           <p>Nadir one The go</p>  {/*скоро будет вместо этого настоящие подписки с API */}
+        </div>
+        <div className='channel1'>
+          <img src="" alt="" />
+           <p>Nadir one The go</p>  {/*скоро будет вместо этого настоящие подписки с API */}
+        </div>
+        <div className='channel1'>
+          <img src="" alt="" />
+           <p>Nadir one The go</p>  {/*скоро будет вместо этого настоящие подписки с API */}
+        </div>
+        <div className='channel1'>
+          <img src="" alt="" />
+           <p>Nadir one The go</p>  {/*скоро будет вместо этого настоящие подписки с API */}
+        </div>
+        <div className='channel1'>
+          <img src="" alt="" />
+           <p>Nadir one The go</p>  {/*скоро будет вместо этого настоящие подписки с API */}
+        </div>
+        
       </div>
     </main>
     </>
