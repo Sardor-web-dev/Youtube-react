@@ -10,7 +10,7 @@ function App() {
     <main>
       <div className='navigation'>
         <div>
-
+          
         </div>
         <div className='Home'>
           <img src="" alt="" />

@@ -1,11 +1,11 @@
 import './style.css'
-import btn from '../images/btn.png'
-import logo from '.././images/logo.png'
-import search from '.././images/search.svg'
-import micro from '.././images/micro.svg'
-import upload from '.././images/upload.svg'
-import nofic from '.././images/nofic.svg'
-import channel from '.././images/channel.svg'
+import btn from './btn.png'
+import logo from './logo.png'
+import search from './search.svg'
+import micro from './micro.svg'
+import upload from './upload.svg'
+import nofic from './nofic.svg'
+import channel from './channel.svg'
 
 function Navbar() {
     return (  
