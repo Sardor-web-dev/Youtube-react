@@ -1,0 +1,81 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "React Tutorial for Beginners",
+        "description": "Learn the basics of React in this comprehensive tutorial.",
+        "thumbnail": "https://via.placeholder.com/300x200",
+        "url": "https://www.youtube.com/watch?v=1",
+        "channel": "CodeAcademy",
+        "views": 12000,
+        "likes": 500,
+        "publishedAt": "2023-12-01T10:00:00Z"
+      },
+      {
+        "id": 2,
+        "title": "Advanced React Patterns",
+        "description": "Dive deeper into React with advanced patterns and techniques.",
+        "thumbnail": "https://via.placeholder.com/300x200",
+        "url": "https://www.youtube.com/watch?v=2",
+        "channel": "ReactPros",
+        "views": 34000,
+        "likes": 1200,
+        "publishedAt": "2023-11-20T15:30:00Z"
+      },
+      {
+        "id": 3,
+        "title": "Tailwind CSS + React",
+        "description": "Learn how to use Tailwind CSS in your React projects.",
+        "thumbnail": "https://via.placeholder.com/300x200",
+        "url": "https://www.youtube.com/watch?v=3",
+        "channel": "DesignWithCode",
+        "views": 15000,
+        "likes": 800,
+        "publishedAt": "2024-01-05T12:00:00Z"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "videoId": 1,
+        "author": "JohnDoe",
+        "content": "Great tutorial! Helped me a lot.",
+        "createdAt": "2024-01-01T08:00:00Z"
+      },
+      {
+        "id": 2,
+        "videoId": 1,
+        "author": "JaneSmith",
+        "content": "Please make a video on React hooks!",
+        "createdAt": "2024-01-02T09:15:00Z"
+      },
+      {
+        "id": 3,
+        "videoId": 2,
+        "author": "ReactLover",
+        "content": "The best advanced tutorial I've seen so far!",
+        "createdAt": "2024-01-06T11:30:00Z"
+      }
+    ],
+    "channels": [
+      {
+        "id": 1,
+        "name": "CodeAcademy",
+        "avatar": "https://via.placeholder.com/100x100",
+        "subscribers": 50000
+      },
+      {
+        "id": 2,
+        "name": "ReactPros",
+        "avatar": "https://via.placeholder.com/100x100",
+        "subscribers": 80000
+      },
+      {
+        "id": 3,
+        "name": "DesignWithCode",
+        "avatar": "https://via.placeholder.com/100x100",
+        "subscribers": 60000
+      }
+    ]
+  }
+  
