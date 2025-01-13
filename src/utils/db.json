@@ -12,6 +12,17 @@
         "publishedAt": "2023-12-01T10:00:00Z"
       },
       {
+        "id": 1,
+        "title": "React Tutorial for Beginners",
+        "description": "Learn the basics of React in this comprehensive tutorial.",
+        "thumbnail": "https://via.placeholder.com/300x200",
+        "url": "https://www.youtube.com/watch?v=1",
+        "channel": "CodeAcademy",
+        "views": 12000,
+        "likes": 500,
+        "publishedAt": "2023-12-01T10:00:00Z"
+      },
+      {
         "id": 2,
         "title": "Advanced React Patterns",
         "description": "Dive deeper into React with advanced patterns and techniques.",
